@@ -16,9 +16,7 @@
 **Solució**: [**```_05_calculHipotenusa.py```**](./fitxers/_05_calculHipotenusa.py)
 
 <details><summary>Mostra solució: _05_calculHipotenusa.py</summary>
-
 <pre><code class="python">
-
 from math import sqrt
 
 if __name__ == '__main__':
@@ -38,7 +36,6 @@ if __name__ == '__main__':
     # hipotenusa = sqrt(pow(catet1,2) + pow(catet2,2))
 
     print(f"La hipotenusa del triangle amb els catets de {catet1} i de {catet2} és {hipotenusa}.")
-```
 </code></pre>
 </details>
 
@@ -53,8 +50,7 @@ if __name__ == '__main__':
 **Solució**: [**```_06_calculPeriAreaRectangle.py```**](./fitxers/_06_calculPeriAreaRectangle.py)
 
 <details><summary>Mostra solució: _06_calculPeriAreaRectangle.py</summary>
-
-```python
+<pre><code class="python">
 if __name__ == '__main__':
 
 # Definició de variables
@@ -76,7 +72,7 @@ if __name__ == '__main__':
 
     print(f"L'area d'un rectangle de base {base} i alçada {alcada} és {area}")
     print(f"El perímetre d'un rectangle de base {base} i alçada {alcada} és {perimetre}")
-```
+</code></pre>
 </details>
 
 <hr>
