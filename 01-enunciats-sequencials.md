@@ -9,7 +9,7 @@
 
 **Solució**: [**```_05_calculHipotenusa.py```**](./fitxers/_05_calculHipotenusa.py)
 
-<summary><detail>**Mostra solució**: **```_05_calculHipotenusa.py```**</detail>
+<details><summary>Mostra solució: _05_calculHipotenusa.py</summary>
 
 ```python
 from math import sqrt
@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
     print(f"La hipotenusa del triangle amb els catets de {catet1} i de {catet2} és {hipotenusa}.")
 ```
-</summary>
+</details>
 
 <hr>
 
