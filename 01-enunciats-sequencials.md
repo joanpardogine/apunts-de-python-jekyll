@@ -40,6 +40,7 @@ if __name__ == '__main__':
     print(f"La hipotenusa del triangle amb els catets de {catet1} i de {catet2} és {hipotenusa}.")
 ```
 </code></pre>
+</details>
 
 <hr>
 
