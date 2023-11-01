@@ -104,8 +104,7 @@ if __name__ == '__main__':
 
 **Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
 
-<a href="./fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre _07_demanarNomUsuariISaludar.py</a>
-
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank">Obre _07_demanarNomUsuariISaludar.py</a>
 <hr>
 
 ## **8** Totes les operacions amb dos nombres
