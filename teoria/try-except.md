@@ -20,7 +20,7 @@ print(x)
 
 En executar el fitxer <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/teoria/teo_try_0001.py" target="_blank"><code>teo_try_0001.py</code></a> es generarà la següent sortida:
 
-```bash
+```
 /bin/python3 ./_00_try_error.py
 Traceback (most recent call last):
   File "/00_try_error.py", line 1, in <module>
@@ -49,7 +49,7 @@ except:
 
 Veiem la sortida de l'execució del fitxer <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/teoria/teo_try_0002.py" target="_blank"><code>teo_try_0002.py</code></a>:
 
-```bash
+```
 /bin/python3 ./teo_try_0002.py
 S'ha produït una excepció!
 ```
@@ -60,7 +60,7 @@ S'ha produït una excepció!
 
 Com ja s'ha vist anteriorment, la sortida de l'execució del fitxer <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/teoria/teo_try_0001.py" target="_blank"><code>teo_try_0001.py</code></a> és la següent:
 
-```bash
+```
 /bin/python3 ./teo_try_0001.py
 Traceback (most recent call last):
   File "/00_try_error.py", line 1, in <module>
@@ -108,7 +108,7 @@ else:
 
 A la sortida de l'execució del fitxer <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/teoria/teo_try_0004.py" target="_blank"><code>teo_try_0004.py</code></a>:
 
-```bash
+```
 /bin/python3 ./teo_try_0004.py
 Hola món!
 No ha fallat res!
@@ -135,7 +135,7 @@ finally:
 
 A la sortida de l'execució del fitxer <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/teoria/teo_try_0005.py" target="_blank"><code>teo_try_0005.py</code></a>:
 
-```bash
+```
 /bin/python3 ./teo_try_0005.py
 S'ha produït una excepció NameError
 La variable x no s'ha definit
