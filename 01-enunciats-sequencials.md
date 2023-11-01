@@ -9,9 +9,7 @@
 
 **Solució**: [**```_05_calculHipotenusa.py```**](./fitxers/_05_calculHipotenusa.py)
 
-**Obre la solució**: <a href="./fitxers/_05_calculHipotenusa.py"</a>
-
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank"><span>Obre <pre>_05_calculHipotenusa.py</pre></span></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank">Obre <code>_05_calculHipotenusa.py</code></a>
 
 <hr>
 
@@ -21,7 +19,7 @@
 
 **Nom del fitxer**: **```_06_calculPeriAreaRectangle.py```**
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank"><span>Obre <pre>_06_calculPeriAreaRectangle.py</pre></span</a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank"><span>Obre <code>_06_calculPeriAreaRectangle.py</code></span</a>
 
 <hr>
 
@@ -33,7 +31,7 @@
 
 **Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre <pre>_07_demanarNomUsuariISaludar.py</pre></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre <code>_07_demanarNomUsuariISaludar.py</code></a>
 
 <hr>
 
@@ -45,7 +43,7 @@
 
 **Solució**: [**```_08_totesLesOperacionsAmbDosNombres.py```**](./fitxers/_08_totesLesOperacionsAmbDosNombres.py)
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank"><pre>Obre _08_totesLesOperacionsAmbDosNombres.py</pre></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank"><code>Obre _08_totesLesOperacionsAmbDosNombres.py</code></a>
 
 <hr>
 
