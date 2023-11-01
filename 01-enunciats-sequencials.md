@@ -3,6 +3,22 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
 
+<!-- <script> 
+  function readTextFile(file) { 
+    var rawFile = new XMLHttpRequest(); 
+    rawFile.open("GET", file, false); 
+    rawFile.onreadystatechange = function () { 
+      if (rawFile.readyState === 4) { 
+        if (rawFile.status === 200 || rawFile.status == 0) { 
+          var allText = rawFile.responseText; 
+          document.getElementById("text-container").innerHTML = allText; 
+        } 
+      } 
+    } 
+    rawFile.send(null); 
+  } 
+  readTextFile("path/to/textfile.txt"); 
+</script>  -->
 
 # Enunciats Seqüencials
 
@@ -14,6 +30,9 @@
 **Nom del fitxer**: **```_05_calculHipotenusa.py```**
 
 **Solució**: [**```_05_calculHipotenusa.py```**](./fitxers/_05_calculHipotenusa.py)
+
+**Obre la solució**: <a href="./fitxers/_05_calculHipotenusa.py"</a>
+
 
 <details><summary>Mostra solució: _05_calculHipotenusa.py</summary>
 <pre><code class="python">
@@ -84,6 +103,8 @@ if __name__ == '__main__':
 **Nom del fitxer**: **```_07_demanarNomUsuariISaludar.py```**
 
 **Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
+
+<object data="./fitxers/_07_demanarNomUsuariISaludar.py"></object> 
 
 <hr>
 
