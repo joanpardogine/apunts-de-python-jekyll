@@ -33,30 +33,7 @@
 
 **Obre la solució**: <a href="./fitxers/_05_calculHipotenusa.py"</a>
 
-
-<details><summary>Mostra solució: _05_calculHipotenusa.py</summary>
-<pre><code class="python">
-from math import sqrt
-
-if __name__ == '__main__':
-# Definició de variables
-    catet1 = float()
-    catet2 = float()
-    hipotenusa = float()
-
-# Inicialització de variables
-    print('Entra el primer dels catets: ', end='')
-    catet1 = float(input())
-
-    print('Entra el segon dels catets: ', end='')
-    catet2 = float(input())
-
-    hipotenusa = sqrt(catet1**2 + catet2**2 )
-    # hipotenusa = sqrt(pow(catet1,2) + pow(catet2,2))
-
-    print(f"La hipotenusa del triangle amb els catets de {catet1} i de {catet2} és {hipotenusa}.")
-</code></pre>
-</details>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank">Obre <pre>_05_calculHipotenusa.py</pre></a>
 
 <hr>
 
@@ -68,31 +45,7 @@ if __name__ == '__main__':
 
 **Solució**: [**```_06_calculPeriAreaRectangle.py```**](./fitxers/_06_calculPeriAreaRectangle.py)
 
-<details><summary>Mostra solució: _06_calculPeriAreaRectangle.py</summary>
-<pre><code class="python">
-if __name__ == '__main__':
-
-# Definició de variables
-    base = float()
-    alcada = float()
-    area = float()
-    perimetre = float()
-
-# Inicialització de variables
-
-    print('Entra la base del rectangle: ', end='')
-    base = float(input())
-
-    print("Entra l'alçada del rectangle: ", end="")
-    alcada = float(input())
-
-    area = (base * alcada)
-    perimetre = (2 * (base + alcada))
-
-    print(f"L'area d'un rectangle de base {base} i alçada {alcada} és {area}")
-    print(f"El perímetre d'un rectangle de base {base} i alçada {alcada} és {perimetre}")
-</code></pre>
-</details>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank">Obre <pre>_06_calculPeriAreaRectangle.py</pre></a>
 
 <hr>
 
@@ -104,7 +57,8 @@ if __name__ == '__main__':
 
 **Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank">Obre _07_demanarNomUsuariISaludar.py</a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre <pre>_07_demanarNomUsuariISaludar.py</pre></a>
+
 <hr>
 
 ## **8** Totes les operacions amb dos nombres
@@ -114,6 +68,8 @@ if __name__ == '__main__':
 **Nom del fitxer**: **```_08_totesLesOperacionsAmbDosNombres.py```**
 
 **Solució**: [**```_08_totesLesOperacionsAmbDosNombres.py```**](./fitxers/_08_totesLesOperacionsAmbDosNombres.py)
+
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank"><pre>Obre _08_totesLesOperacionsAmbDosNombres.py</pre></a>
 
 <hr>
 
