@@ -1,25 +1,3 @@
-<link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
-  <script>hljs.initHighlightingOnLoad();</script>
-
-<!-- <script> 
-  function readTextFile(file) { 
-    var rawFile = new XMLHttpRequest(); 
-    rawFile.open("GET", file, false); 
-    rawFile.onreadystatechange = function () { 
-      if (rawFile.readyState === 4) { 
-        if (rawFile.status === 200 || rawFile.status == 0) { 
-          var allText = rawFile.responseText; 
-          document.getElementById("text-container").innerHTML = allText; 
-        } 
-      } 
-    } 
-    rawFile.send(null); 
-  } 
-  readTextFile("path/to/textfile.txt"); 
-</script>  -->
-
 # Enunciats Seqüencials
 
 ## **5** *Càlcul Hipotenusa*
@@ -33,7 +11,7 @@
 
 **Obre la solució**: <a href="./fitxers/_05_calculHipotenusa.py"</a>
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank">Obre <pre>_05_calculHipotenusa.py</pre></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank"><span>Obre <pre>_05_calculHipotenusa.py</pre></span></a>
 
 <hr>
 
@@ -43,9 +21,7 @@
 
 **Nom del fitxer**: **```_06_calculPeriAreaRectangle.py```**
 
-**Solució**: [**```_06_calculPeriAreaRectangle.py```**](./fitxers/_06_calculPeriAreaRectangle.py)
-
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank">Obre <pre>_06_calculPeriAreaRectangle.py</pre></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank"><span>Obre <pre>_06_calculPeriAreaRectangle.py</pre></span</a>
 
 <hr>
 
