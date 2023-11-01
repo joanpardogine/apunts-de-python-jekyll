@@ -2,20 +2,8 @@
 
 [Tutorial de Python de w3schools.com](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
 
-<details><summary>Exemples de codi vistos a la teoria</summary>
 
-[_00_quadrat.py](./fitxers/_00_quadrat.py)
-
-[_01_MostraElMesGran.py](./fitxers/_01_MostraElMesGran.py)
-
-[_02_OrdenarTresNombres.py](./fitxers/_02_OrdenarTresNombres.py)
-
-[_03_CalcularFactorial.py](./fitxers/_03_CalcularFactorial.py)
-
-[_04_CalcularFactorial_Repetir.py](./fitxers/_04_CalcularFactorial_Repetir.py)
-
-</details>
-
+## [enllaç -> Exemples de codi vistos a la teoria](#exemples-de-codi-vistos-a-la-teoria)
 
 ## Enunciats
 
@@ -49,5 +37,14 @@
    ```
 
 
+## Exemples de codi vistos a la teoria
 
+[_00_quadrat.py](./fitxers/_00_quadrat.py)
 
+[_01_MostraElMesGran.py](./fitxers/_01_MostraElMesGran.py)
+
+[_02_OrdenarTresNombres.py](./fitxers/_02_OrdenarTresNombres.py)
+
+[_03_CalcularFactorial.py](./fitxers/_03_CalcularFactorial.py)
+
+[_04_CalcularFactorial_Repetir.py](./fitxers/_04_CalcularFactorial_Repetir.py)
