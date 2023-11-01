@@ -104,7 +104,7 @@ if __name__ == '__main__':
 
 **Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
 
-<object data="./fitxers/_07_demanarNomUsuariISaludar.py"></object> 
+<a href="./fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre _07_demanarNomUsuariISaludar.py</a>
 
 <hr>
 
