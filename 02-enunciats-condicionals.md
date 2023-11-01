@@ -6,7 +6,7 @@
 
 **Nom del fitxer**: **```_26_primerMesGran.py```**
 
-**Solució**: [**```_26_primerMesGran.py```**](./fitxers/_26_primerMesGran.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_26_primerMesGran.py" target="_blank"><b>Solució</b> <code>_26_primerMesGran.py</code></a>
 
 <hr>
 
@@ -16,7 +16,7 @@
 
 **Nom del fitxer**: **```_27_esPositiuONegatiu.py```**
 
-**Solució**: [**```_27_esPositiuONegatiu.py```**](./fitxers/_27_esPositiuONegatiu.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_27_esPositiuONegatiu.py" target="_blank"><b>Solució</b> <code>_27_esPositiuONegatiu.py</code></a>
 
 <hr>
 
@@ -26,7 +26,7 @@
 	
 **Nom del fitxer**: **```_28_parellOImparell.py```**
 
-**Solució**: [**```_28_parellOImparell.py```**](./fitxers/_28_parellOImparell.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_28_parellOImparell.py" target="_blank"><b>Solució</b> <code>_28_parellOImparell.py</code></a>
 
 <hr>
 
@@ -38,7 +38,7 @@
 
 ## **30** Control d'accés
 
-**Solució**: [**```_29_controlaSegonEsZero.py```**](./fitxers/_29_controlaSegonEsZero.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_29_controlaSegonEsZero.py" target="_blank"><b>Solució</b> <code>_29_controlaSegonEsZero.py</code></a>
 
 <hr>
 
@@ -46,7 +46,7 @@
 	
 **Nom del fitxer**: **```_30_controlDAcces.py```**
 
-**Solució**: [**```_30_controlDAcces.py```**](./fitxers/_30_controlDAcces.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_30_controlDAcces.py" target="_blank"><b>Solució</b> <code>_30_controlDAcces.py</code></a>
 
 <hr>
 
@@ -56,7 +56,7 @@
 	
 **Nom del fitxer**: **```_31_cadenaEnMajuscules.py```**
 
-**Solució**: [**```_31_cadenaEnMajuscules.py```**](./fitxers/_31_cadenaEnMajuscules.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_31_cadenaEnMajuscules.py" target="_blank"><b>Solució</b> <code>_31_cadenaEnMajuscules.py</code></a>
 
 <hr>
 
@@ -71,7 +71,7 @@ Poden passar tres coses:
 	
 **Nom del fitxer**: **```_32_potencia.py```**
 
-**Solució**: [**```_32_potencia.py```**](./fitxers/_32_potencia.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_32_potencia.py" target="_blank"><b>Solució</b> <code>_32_potencia.py</code></a>
 
 <hr>
 
@@ -88,7 +88,7 @@ Si no es compleixen aquestes condicions cal mostrar el missatge: **NO ACCEPTADA*
 
 **Nom del fitxer**: **```_33_controlEntrada.py```**
 
-**Solució**: [**```_33_controlEntrada.py```**](./fitxers/_33_controlEntrada.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_33_controlEntrada.py" target="_blank"><b>Solució</b> <code>_33_controlEntrada.py</code></a>
 
 <hr>
 
@@ -96,7 +96,7 @@ Si no es compleixen aquestes condicions cal mostrar el missatge: **NO ACCEPTADA*
 
 <hr>
 
-**Solució**: [**```_33_controlEntrada.py```**](./fitxers/_33_controlEntrada.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_33_controlEntrada.py" target="_blank"><b>Solució</b> <code>_33_controlEntrada.py</code></a>
 
 <hr>
 
@@ -107,7 +107,7 @@ Si no es compleixen aquestes condicions cal mostrar el missatge: **NO ACCEPTADA*
 	
 **Nom del fitxer**: **```_34_ordenarTresNombres.py```**
 
-<!-- **Solució**: [**```_34_ordenarTresNombres.py```**](./fitxers/_34_ordenarTresNombres.py) -->
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_34_ordenarTresNombres.py" target="_blank"><b>Solució</b> <code>_34_ordenarTresNombres.py</code></a> -->
 
 <hr>
 
@@ -141,7 +141,7 @@ A la següent pàgina [POSICIÓN RELATIVA DE DOS CIRCUNFERENCIAS](http://mimosa.
 
 **Nom del fitxer**: **```_36_determinaTriangle.py```**
 
-<!-- **Solució**: [**```_36_determinaTriangle.py```**](./fitxers/_36_determinaTriangle.py) -->
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_36_determinaTriangle.py" target="_blank"><b>Solució</b> <code>_36_determinaTriangle.py</code></a> -->
 
 > ## [TEORIA: **Any de traspàs**](./teoria/teo-03-any-de-traspas.md)
 

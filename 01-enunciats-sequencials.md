@@ -4,12 +4,9 @@
 
 **Enunciat**: Donats els catets d'un triangle rectangle, calcular la seva hipotenusa.
 
-
 **Nom del fitxer**: **```_05_calculHipotenusa.py```**
 
-**Solució**: [**```_05_calculHipotenusa.py```**](./fitxers/_05_calculHipotenusa.py)
-
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank">Obre <code>_05_calculHipotenusa.py</code></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_05_calculHipotenusa.py" target="_blank"><b>Solució</b> <code>_05_calculHipotenusa.py</code></a>
 
 <hr>
 
@@ -19,7 +16,7 @@
 
 **Nom del fitxer**: **```_06_calculPeriAreaRectangle.py```**
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank"><span>Obre <code>_06_calculPeriAreaRectangle.py</code></span</a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_06_calculPeriAreaRectangle.py" target="_blank"><b>Solució</b> <code>_06_calculPeriAreaRectangle.py</code></a>
 
 <hr>
 
@@ -29,9 +26,7 @@
 
 **Nom del fitxer**: **```_07_demanarNomUsuariISaludar.py```**
 
-**Solució**: [**```_07_demanarNomUsuariISaludar.py```**](./fitxers/_07_demanarNomUsuariISaludar.py)
-
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_07_demanarNomUsuariISaludar.py" target="_blank">Obre <code>_07_demanarNomUsuariISaludar.py</code></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_07_demanarNomUsuariISaludar.py" target="_blank"><b>Solució</b> <code>_07_demanarNomUsuariISaludar.py</code></a>
 
 <hr>
 
@@ -41,9 +36,7 @@
 
 **Nom del fitxer**: **```_08_totesLesOperacionsAmbDosNombres.py```**
 
-**Solució**: [**```_08_totesLesOperacionsAmbDosNombres.py```**](./fitxers/_08_totesLesOperacionsAmbDosNombres.py)
-
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank"><code>Obre _08_totesLesOperacionsAmbDosNombres.py</code></a>
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_08_totesLesOperacionsAmbDosNombres.py" target="_blank"><b>Solució</b> <code>_08_totesLesOperacionsAmbDosNombres.py</code></a>
 
 <hr>
 
@@ -53,7 +46,7 @@
 
 **Nom del fitxer**: **```_09_convertirDeFahrenheitACelsius.py```**
 
-**Solució**: [**```_09_convertirDeFahrenheitACelsius.py```**](./fitxers/_09_convertirDeFahrenheitACelsius.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_09_convertirDeFahrenheitACelsius.py" target="_blank"><b>Solució</b> <code>_09_convertirDeFahrenheitACelsius.py</code></a>
 
 <hr>
 
