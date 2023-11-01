@@ -37,6 +37,6 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
 end
 
-commonmark:
-  options: ["UNSAFE", "SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+# commonmark:
+#   options: ["UNSAFE", "SMART", "FOOTNOTES"]
+#   extensions: ["strikethrough", "autolink", "table", "tagfilter"]

@@ -54,5 +54,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 
