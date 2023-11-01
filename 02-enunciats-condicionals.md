@@ -130,6 +130,8 @@ A la següent pàgina [POSICIÓN RELATIVA DE DOS CIRCUNFERENCIAS](http://mimosa.
 
 **Nom del fitxer**: **```_35_posicioRelativaDuesCircumferencies.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_35_posicioRelativaDuesCircumferencies.py" target="_blank"><b>Solució</b> <code>_35_posicioRelativaDuesCircumferencies.py</code></a> -->
+
 <hr>
 
 ## **36** Determina el tipus de triangle.
@@ -155,6 +157,8 @@ A la següent pàgina [POSICIÓN RELATIVA DE DOS CIRCUNFERENCIAS](http://mimosa.
 
 **Nom del fitxer**: **```_37_anyDeTraspas.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_37_anyDeTraspas.py" target="_blank"><b>Solució</b> <code>_37_anyDeTraspas.py</code></a> -->
+
 <hr>
 
 ## **38** Valida la data
@@ -162,6 +166,8 @@ A la següent pàgina [POSICIÓN RELATIVA DE DOS CIRCUNFERENCIAS](http://mimosa.
 **Enunciat**: Escriu un programa que demani una data (dia, mes i any) i digui si és correcta.
 
 <!-- **Nom del fitxer**: **```_38_dataCorrecta.py```** -->
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_38_dataCorrecta.py" target="_blank"><b>Solució</b> <code>_38_dataCorrecta.py</code></a> -->
 
 <hr>
 
@@ -190,6 +196,10 @@ Realitzeu un algorisme per determinar el guany obtingut.
 
 **Nom del fitxer**: **```_39_preuVinicultors.py```**
 
+<!-- **Nom del fitxer**: **```_39_preuVinicultors.py```** -->
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_38_dataCorrecta.py" target="_blank"><b>Solució</b> <code>_39_preuVinicultors.py</code></a> -->
+
 <hr>
 
 ## **40** Càlcul del pagament EmpresaBusos
@@ -209,6 +219,10 @@ La manera de cobrar és la següent:
 Realitzeu un algorisme que permeti determinar el pagament a la companyia d'autobusos i el que ha de pagar cada alumne pel viatge. 
 
 **Nom del fitxer**: **```_40_pagamentEmpresaBusos.py```**
+
+<!-- **Nom del fitxer**: **```_40_pagamentEmpresaBusos.py```** -->
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_38_dataCorrecta.py" target="_blank"><b>Solució</b> <code>_40_pagamentEmpresaBusos.py</code></a> -->
 
 <hr>
 
@@ -260,6 +274,8 @@ Realitzeu un algorisme per determinar quant ha de pagar per cada concepte una pe
 >
 > El cost de la trucada es: 691.68 euros.
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_41_cobramentTelefonica.py" target="_blank"><b>Solució</b> <code>_41_cobramentTelefonica.py</code></a> -->
+
 <hr>
 
 ## **42** Valor de la cara oposada d'un dau
@@ -277,6 +293,8 @@ Realitzeu un algorisme per determinar quant ha de pagar per cada concepte una pe
 
 **Nom del fitxer**: **```_42_nombreOposatDau.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_42_nombreOposatDau.py" target="_blank"><b>Solució</b> <code>_42_nombreOposatDau.py</code></a> -->
+
 <hr>
 
 ## **43** Dies de la setmana
@@ -285,6 +303,8 @@ Realitzeu un algorisme per determinar quant ha de pagar per cada concepte una pe
 
 **Nom del fitxer**: **```_43_diesDeLaSetmana.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_43_diesDeLaSetmana.py" target="_blank"><b>Solució</b> <code>_43_diesDeLaSetmana.py</code></a> -->
+
 <hr>
 
 ## **44** Torna la quantitat de dies d'un mes
@@ -292,6 +312,8 @@ Realitzeu un algorisme per determinar quant ha de pagar per cada concepte una pe
 **Enunciat**: Escriviu un programa que demani un nombre enter entre un i dotze i imprimeixi el nombre de dies que té el mes corresponent. Si introduïm un altre número ens dóna un error.
 
 **Nom del fitxer**: **```_44_diesQueTeUnMes.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_44_diesQueTeUnMes.py" target="_blank"><b>Solució</b> <code>_44_diesQueTeUnMes.py</code></a> -->
 
 <hr>
 
@@ -313,3 +335,4 @@ El **cost** pel servei de transport es basa en el **pes del paquet** i la **zona
 
 **Nom del fitxer**: **```_45_empresaPaquets.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_45_empresaPaquets.py" target="_blank"><b>Solució</b> <code>_45_empresaPaquets.py</code></a> -->

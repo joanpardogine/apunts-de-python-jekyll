@@ -8,6 +8,8 @@
 
 **Nom del fitxer**: **```_79_mostraQuadratICub.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_79_mostraQuadratICub.py" target="_blank"><b>Solució</b> <code>_79_mostraQuadratICub.py</code></a> -->
+
 <hr>
 
 ## **80** Mostra un vector en l'ordre invers
@@ -15,6 +17,8 @@
 **Enunciat**: Crear un vector de 5 elements de cadenes de caràcters, inicialitza el vector amb dades llegides pel teclat. Copia els elements del vector en un altre vector però en ordre invers, i mostra'l per la pantalla.
 
 **Nom del fitxer**: **```_80_mostraVectorOrdreInvers.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_80_mostraVectorOrdreInvers.py" target="_blank"><b>Solució</b> <code>_80_mostraVectorOrdreInvers.py</code></a> -->
 
 <hr>
 
@@ -24,13 +28,7 @@
 
 **Nom del fitxer**: **```_81_totesLesNotesMitjanaMajorMenor.py```**
 
-<hr>
-
-## **XX** Bla, bla
-
-**Enunciat**: Bla, bla
-
-**Nom del fitxer**: **```_XXXX.py```**
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_81_totesLesNotesMitjanaMajorMenor.py" target="_blank"><b>Solució</b> <code>_81_totesLesNotesMitjanaMajorMenor.py</code></a> -->
 
 <hr>
 
@@ -40,91 +38,240 @@
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
-<hr>
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
 
+<hr>
 ## **XX** Bla, bla
 
 **Enunciat**: Bla, bla
 
 **Nom del fitxer**: **```_XXXX.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>
+## **XX** Bla, bla
+
+**Enunciat**: Bla, bla
+
+**Nom del fitxer**: **```_XXXX.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_XXXX.py" target="_blank"><b>Solució</b> <code>_XXXX.py</code></a> -->
+
+<hr>

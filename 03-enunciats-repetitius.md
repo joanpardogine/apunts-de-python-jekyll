@@ -12,6 +12,8 @@ En aquest cas cal que ho feu amb un bucle **```mentre```** (**```while```**).
 
 **Nom del fitxer**: **```_46_factorialAmbMentre.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_46_factorialAmbMentre.py" target="_blank"><b>Solució</b> <code>_46_factorialAmbMentre.py</code></a> -->
+
 <hr>
 
 ## **47** Calcul factorial amb **```repetir```**
@@ -20,8 +22,9 @@ En aquest cas cal que ho feu amb un bucle **```mentre```** (**```while```**).
 
 En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):```**).
 
-
 **Nom del fitxer**: **```_47_factorialAmbRepetir.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_47_factorialAmbRepetir.py" target="_blank"><b>Solució</b> <code>_47_factorialAmbRepetir.py</code></a> -->
 
 <hr>
 
@@ -37,7 +40,9 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 1. En qualsevol cas mostrarà el número que havia generat.
 
-**Nom del fitxer**: **```_48_endivinarNumero.py```**
+**Nom del fitxer**: **```_48_endevinarNumero.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_48_endevinarNumero.py" target="_blank"><b>Solució</b> <code>_48_endevinarNumero.py</code></a> -->
 
 <hr>
 
@@ -47,6 +52,8 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_49_nombresMesGransOMesPetitsQueZero.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_49_nombresMesGransOMesPetitsQueZero.py" target="_blank"><b>Solució</b> <code>_49_nombresMesGransOMesPetitsQueZero.py</code></a> -->
+
 <hr>
 
 ## **50** Torna la suma i la mitjana (amb **```mentre```**)
@@ -55,6 +62,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_50_tornaSumaIMitjanaMentre.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_50_tornaSumaIMitjanaMentre.py" target="_blank"><b>Solució</b> <code>_50_tornaSumaIMitjanaMentre.py</code></a> -->
 
 <hr>
 
@@ -64,6 +72,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_51_tornaSumaIMitjanaRepetir.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_51_tornaSumaIMitjanaRepetir.py" target="_blank"><b>Solució</b> <code>_51_tornaSumaIMitjanaRepetir.py</code></a> -->
 
 <hr>
 
@@ -73,12 +82,16 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_52_demanarVocalONoVocalMentre.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_52_demanarVocalONoVocalMentre.py" target="_blank"><b>Solució</b> <code>_52_demanarVocalONoVocalMentre.py</code></a> -->
+
 
 ## **53** Demanar vocals (amb **```repetir```**)
 
 **Enunciat**: Algoritme que demani caràcters i imprimeixi **```VOCAL```** si són vocals i **```NO VOCAL```** en cas contrari, el programa s'acaba quan s'introdueix un espai. Fent servir un repetir. 
 
 **Nom del fitxer**: **```_53_demanarVocalONoVocalRepetir.py```**
+
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_53_demanarVocalONoVocalRepetir.py" target="_blank"><b>Solució</b> <code>_53_demanarVocalONoVocalRepetir.py</code></a> -->
 
 <hr>
 
@@ -88,6 +101,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_54_mostrarParells.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_54_mostrarParells.py" target="_blank"><b>Solució</b> <code>_54_mostrarParells.py</code></a> -->
 
 <hr>
 
@@ -97,6 +111,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_55_mostrarTaulaDeMultiplicar.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_55_mostrarTaulaDeMultiplicar.py" target="_blank"><b>Solució</b> <code>_55_mostrarTaulaDeMultiplicar.py</code></a> -->
 
 <hr>
 
@@ -108,8 +123,9 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 * quants números estan fora de l'interval i
 * informa si s'ha introduït algun número igual als límits de l'interval.
 
-**Nom del fitxer**: **```_56_limitsDUnInteval.py```**
+**Nom del fitxer**: **```_56_limitsDUnInterval.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_56_limitsDUnInterval.py" target="_blank"><b>Solució</b> <code>_56_limitsDUnInterval.py</code></a> -->
 
 <hr>
 
@@ -119,6 +135,8 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_59_calculPotencia.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_59_calculPotencia.py" target="_blank"><b>Solució</b> <code>_59_calculPotencia.py</code></a> -->
+
 <hr>
 
 ## **60** Taula de multiplicar de l'**```1```** al **```5```**
@@ -127,6 +145,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_60_taulaDeMultiplicarDeL1Al5.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_60_taulaDeMultiplicarDeL1Al5.py" target="_blank"><b>Solució</b> <code>_60_taulaDeMultiplicarDeL1Al5.py</code></a> -->
 
 <hr>
 
@@ -140,6 +159,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_61_esPrimer.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_61_esPrimer.py" target="_blank"><b>Solució</b> <code>_61_esPrimer.py</code></a> -->
 
 <hr>
 
@@ -149,6 +169,8 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_62_estalviAnual.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_62_estalviAnual.py" target="_blank"><b>Solució</b> <code>_62_estalviAnual.py</code></a> -->
+
 <hr>
 
 ## **63** Calcul del total d'hores i sou
@@ -157,6 +179,7 @@ En aquest cas cal que ho feu amb un bucle **```repetir```** (**```while (True):`
 
 **Nom del fitxer**: **```_63_calculTotalHoresISou.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_63_calculTotalHoresISou.py" target="_blank"><b>Solució</b> <code>_63_calculTotalHoresISou.py</code></a> -->
 
 <hr>
 
@@ -169,6 +192,7 @@ Cal desenvolupar un programa per determinar a quin quilòmetre d'aquesta carrete
 
 **Nom del fitxer**: **```_64_cotxesQueEsTroben.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_64_cotxesQueEsTroben.py" target="_blank"><b>Solució</b> <code>_64_cotxesQueEsTroben.py</code></a> -->
 
 <hr>
 
@@ -185,6 +209,7 @@ Realitzar un algorisme per determinar quant ha de pagar mensualment i l'import t
 
 **Nom del fitxer**: **```_65_compraProducteEn20Mesos.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_65_compraProducteEn20Mesos.py" target="_blank"><b>Solució</b> <code>_65_compraProducteEn20Mesos.py</code></a> -->
 
 <hr>
 
@@ -193,8 +218,9 @@ Realitzar un algorisme per determinar quant ha de pagar mensualment i l'import t
 **Enunciat**: Una empresa paga als seus treballadors amb base en les hores treballades a la setmana.
 Realitzeu un algorisme per determinar el **sou setmanal** de **```n``` treballadors** i, a més a més, calculeu la **quantitat final** que l'empresa pagarà als **```n``` treballadors**.
 
-**Nom del fitxer**: **```_66_souAPagarPer8HoresSetmanaIIImportTotal.py```**
+**Nom del fitxer**: **```_66_souAPagarPer8HoresSetmanaIImportTotal.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_66_souAPagarPer8HoresSetmanaIImportTotal.py" target="_blank"><b>Solució</b> <code>_66_souAPagarPer8HoresSetmanaIImportTotal.py</code></a> -->
 
 <hr>
 
@@ -204,6 +230,7 @@ Realitzeu un algorisme per determinar el **sou setmanal** de **```n``` treballad
 
 **Nom del fitxer**: **```_67_cronometre.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_67_cronometre.py" target="_blank"><b>Solució</b> <code>_67_cronometre.py</code></a> -->
 
 <hr>
 
@@ -213,6 +240,7 @@ Realitzeu un algorisme per determinar el **sou setmanal** de **```n``` treballad
 
 **Nom del fitxer**: **```_68_menuFinsSortir.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_68_menuFinsSortir.py" target="_blank"><b>Solució</b> <code>_68_menuFinsSortir.py</code></a> -->
 
 <hr>
 
@@ -222,3 +250,4 @@ Realitzeu un algorisme per determinar el **sou setmanal** de **```n``` treballad
 
 **Nom del fitxer**: **```_69_mostraElsNPrimersPrimers.py```**
 
+<!-- <a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_69_mostraElsNPrimersPrimers.py" target="_blank"><b>Solució</b> <code>_69_mostraElsNPrimersPrimers.py</code></a> -->
