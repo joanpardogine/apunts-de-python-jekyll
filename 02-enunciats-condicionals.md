@@ -96,7 +96,9 @@ Si no es compleixen aquestes condicions cal mostrar el missatge: **NO ACCEPTADA*
 
 <hr>
 
-<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_33_controlEntrada.py" target="_blank"><b>Solució</b> <code>_33_controlEntrada.py</code></a>
+## **33** Control d'entrada amb **```try``` - ```except```**
+
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_33_controlEntrada_try.py" target="_blank"><b>Solució</b> <code>_33_controlEntrada_try.py</code></a>
 
 <hr>
 
