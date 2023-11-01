@@ -18,13 +18,13 @@
 > ## [Enunciats Vectors](./05-enunciats-vectors.md)
 
 
-## TEORIA
+## Teoria
 
-> ## [TEORIA **Sistema de coordenades cartesianes**](./teoria/teo-01-sistema-coordenades-cartesianes.md)
+> ## [Teoria **Sistema de coordenades cartesianes**](./teoria/teo-01-sistema-coordenades-cartesianes.md)
 >
-> ## [TEORIA **Distància**](./teoria/teo-02-distancia.md)
+> ## [Teoria **Distància**](./teoria/teo-02-distancia.md)
 >
-> ## [TEORIA **Any de traspàs**](./teoria/teo-03-any-de-traspas.md)
+> ## [Teoria **Any de traspàs**](./teoria/teo-03-any-de-traspas.md)
 
 ## Recordeu que per a tots els enunciats cal
 
