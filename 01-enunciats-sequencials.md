@@ -1,3 +1,9 @@
+<link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
 # Enunciats Seqüencials
 
 ## **5** *Càlcul Hipotenusa*
@@ -11,7 +17,8 @@
 
 <details><summary>Mostra solució: _05_calculHipotenusa.py</summary>
 
-```python
+<pre><code class="python">
+
 from math import sqrt
 
 if __name__ == '__main__':
@@ -32,7 +39,7 @@ if __name__ == '__main__':
 
     print(f"La hipotenusa del triangle amb els catets de {catet1} i de {catet2} és {hipotenusa}.")
 ```
-</details>
+</code></pre>
 
 <hr>
 
