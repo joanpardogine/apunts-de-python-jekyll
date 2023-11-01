@@ -2,7 +2,6 @@
 
 [Tutorial de Python de w3schools.com](https://joanpardogine.github.io/apunts-de-python/python-tutorial.html)
 
-
 ## [enllaç -> Exemples de codi vistos a la teoria](#exemples-de-codi-vistos-a-la-teoria)
 
 ## Enunciats
@@ -39,12 +38,14 @@
 
 ## Exemples de codi vistos a la teoria
 
-[_00_quadrat.py](./fitxers/_00_quadrat.py)
 
-[_01_MostraElMesGran.py](./fitxers/_01_MostraElMesGran.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_00_quadrat.py" target="_blank"><code>_00_quadrat.py</code></a>
 
-[_02_OrdenarTresNombres.py](./fitxers/_02_OrdenarTresNombres.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_01_MostraElMesGran.py" target="_blank"><code>_01_MostraElMesGran.py</code></a>
 
-[_03_CalcularFactorial.py](./fitxers/_03_CalcularFactorial.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_02_OrdenarTresNombres.py" target="_blank"><code>_02_OrdenarTresNombres.py</code></a>
 
-[_04_CalcularFactorial_Repetir.py](./fitxers/_04_CalcularFactorial_Repetir.py)
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_03_CalcularFactorial.py" target="_blank"><code>_03_CalcularFactorial.py</code></a>
+
+<a href="https://github.com/joanpardogine/apunts-de-python-jekyll/raw/main/fitxers/_04_CalcularFactorial_Repetir.py" target="_blank"><code>_04_CalcularFactorial_Repetir.py</code></a>
+
